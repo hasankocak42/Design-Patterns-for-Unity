@@ -322,8 +322,8 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.0f1/Editor/Data/NetStandard/ref/2.1.0/netstandard.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.0f1/Editor/Data/PlaybackEngines/AndroidPlayer/Unity.Android.Gradle.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.0f1/Editor/Data/PlaybackEngines/AndroidPlayer/Unity.Android.Types.dll"
--r:"D:/unity game/Design-Patterns-for-Unity/Design Pattern For Unity/Library/PackageCache/com.unity.testtools.codecoverage@1.0.1/lib/ReportGenerator/ReportGeneratorMerged.dll"
--r:"D:/unity game/Design-Patterns-for-Unity/Design Pattern For Unity/Library/PackageCache/com.unity.visualscripting@1.7.6/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"D:/unitygame/Design-Patterns-for-Unity/Design Pattern For Unity/Library/PackageCache/com.unity.testtools.codecoverage@1.0.1/lib/ReportGenerator/ReportGeneratorMerged.dll"
+-r:"D:/unitygame/Design-Patterns-for-Unity/Design Pattern For Unity/Library/PackageCache/com.unity.visualscripting@1.7.6/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.ref.dll"
@@ -347,10 +347,13 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/Patterns/1.Singelton/Deneme.cs"
-"Assets/Patterns/1.Singelton/GameManager.cs"
-"Assets/Patterns/1.Singelton/MonoSingleton.cs"
-"Assets/Patterns/1.Singelton/Singleton.cs"
+"Assets/Patterns/1.Singelton/script/Deneme.cs"
+"Assets/Patterns/1.Singelton/script/GameManager.cs"
+"Assets/Patterns/1.Singelton/script/MonoSingleton.cs"
+"Assets/Patterns/1.Singelton/script/Singleton.cs"
+"Assets/Patterns/2.Object Pooling/Script/MyObject.cs"
+"Assets/Patterns/2.Object Pooling/Script/ObjectPool.cs"
+"Assets/Patterns/2.Object Pooling/Script/Test.cs"
 -langversion:9.0
 
 /deterministic
